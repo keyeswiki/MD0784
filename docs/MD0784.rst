@@ -43,6 +43,6 @@ Q：插上后，无法正常识别
 
 A：请检查是否安装USB驱动程序，可以在PC端的设备管理器中进行查看
 
-.. |image1| image:: .\media\1728966807750-f4e8dc9f-0e3b-41a7-a4ab-ee207ef1b651.png
-.. |image2| image:: .\media\image-20250530144441674.png
-.. |image3| image:: .\media\1728967262769-52d394ae-673d-4d7a-b0f5-31ffd7ae2339.png
+.. |image1| image:: ./media/1.jpg
+.. |image2| image:: ./media/3.jpg.png
+.. |image3| image:: ./media/2.jpg
