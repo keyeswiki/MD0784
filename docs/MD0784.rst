@@ -13,7 +13,7 @@ MD0784-CH340C为一款USB转TTL工具板，通过USB口（TypeA）进行连接�
 驱动程序(Windows)
 =================
 
-直接下载：:download:`CH340C驱动 <./MD0784.zip>`
+直接下载：:download:`CH340C驱动 <./CH340C.zip>`
 
 使用说明
 ========
